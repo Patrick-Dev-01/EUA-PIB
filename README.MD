@@ -1,4 +1,4 @@
-# Analisando a PIB dos EUA de 1910 a 1970
+# Analisando o PIB dos EUA de 1910 a 1970
 
 - Demarcando com flechas indicando passagens históricas, como a Segunda Guerra Mundial e a Queda da Bolsa de valores.
 
